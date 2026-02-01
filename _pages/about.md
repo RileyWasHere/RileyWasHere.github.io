@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Riley Smith
-![Riley Smith](/images/profile.jpg)
+<img src="/images/profile.jpg" alt="Riley Smith" width="150">
 
 ## Education
 **University of Houston**

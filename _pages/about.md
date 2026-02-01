@@ -13,6 +13,7 @@ redirect_from:
 ## Education
 **University of Houston**
 B.S. in Computer Science
+
 Expected Graduation: 2027
 
 [University of Houston Computer Science Department](https://www.cs.uh.edu)

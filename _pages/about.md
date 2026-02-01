@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Riley Smith
-
 ## Education
 **University of Houston**
 B.S. in Computer Science

@@ -145,10 +145,7 @@ social:
 
 
 # Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-N35NXM1EYG"
+# (handled in _includes/head/custom.html) 
 
 
 # Reading Files

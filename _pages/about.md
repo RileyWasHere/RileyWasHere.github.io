@@ -16,7 +16,7 @@ B.S. in Computer Science
 
 Expected Graduation: 2027
 
-[University of Houston Computer Science Department](https://www.cs.uh.edu)
+[University of Houston Computer Science Department](https://www.uh.edu/nsm/computer-science/)
 
 [LinkedIn Profile](https://www.linkedin.com/in/riley-smith-ba78b23a8/)
 
